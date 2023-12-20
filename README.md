@@ -10,13 +10,20 @@ Random Cute Dog Image App est une application web développée avec React. Elle 
 
 Pour exécuter cette application, assurez-vous d'avoir [Node.js](https://nodejs.org/) installé sur votre système. Suivez ensuite ces étapes :
 
+
+
 1. Clonez le dépôt :
+   
    git clone git@github.com:LouisSappey/Random-Image-Vitrine.git
+   
    cd Random-Image-Vitrine
-2. Installez les dépendances :Lancement
+   
+3. Installez les dépendances :Lancement
+   
    npm install
 
 Pour lancer l'application en mode développement, exécutez :
+
 
 npm start
 

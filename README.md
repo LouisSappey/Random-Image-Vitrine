@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Random Cute Dog Image App
 
 ## Description
